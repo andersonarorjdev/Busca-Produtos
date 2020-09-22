@@ -3,4 +3,4 @@ Mini projeto simples em ReactJS consumindo a API da Rocketseat sobre as tecnolog
 
 <img src="./src/images/prints/Buscaprints.png">
 
-*Tecnologias Usadas:ReactJs, React-Router-Dom, API, Css*
+**Tecnologias Usadas:ReactJs, React-Router-Dom, API, Css**
